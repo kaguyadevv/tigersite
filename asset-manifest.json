@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tigersite/static/css/main.e33728fc.css",
+    "main.js": "/tigersite/static/js/main.f3fa5919.js",
+    "static/js/453.80fadb7d.chunk.js": "/tigersite/static/js/453.80fadb7d.chunk.js",
+    "index.html": "/tigersite/index.html",
+    "main.e33728fc.css.map": "/tigersite/static/css/main.e33728fc.css.map",
+    "main.f3fa5919.js.map": "/tigersite/static/js/main.f3fa5919.js.map",
+    "453.80fadb7d.chunk.js.map": "/tigersite/static/js/453.80fadb7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33728fc.css",
+    "static/js/main.f3fa5919.js"
+  ]
+}
