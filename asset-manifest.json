@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tigersite/static/css/main.e33728fc.css",
-    "main.js": "/tigersite/static/js/main.5b573047.js",
-    "static/js/453.80fadb7d.chunk.js": "/tigersite/static/js/453.80fadb7d.chunk.js",
-    "index.html": "/tigersite/index.html",
-    "main.e33728fc.css.map": "/tigersite/static/css/main.e33728fc.css.map",
-    "main.5b573047.js.map": "/tigersite/static/js/main.5b573047.js.map",
-    "453.80fadb7d.chunk.js.map": "/tigersite/static/js/453.80fadb7d.chunk.js.map"
+    "main.css": "/static/css/main.e33728fc.css",
+    "main.js": "/static/js/main.5a5dd48e.js",
+    "static/js/453.80fadb7d.chunk.js": "/static/js/453.80fadb7d.chunk.js",
+    "index.html": "/index.html",
+    "main.e33728fc.css.map": "/static/css/main.e33728fc.css.map",
+    "main.5a5dd48e.js.map": "/static/js/main.5a5dd48e.js.map",
+    "453.80fadb7d.chunk.js.map": "/static/js/453.80fadb7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e33728fc.css",
-    "static/js/main.5b573047.js"
+    "static/js/main.5a5dd48e.js"
   ]
 }
